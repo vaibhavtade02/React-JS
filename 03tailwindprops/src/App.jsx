@@ -5,10 +5,7 @@ import Card from "./component/card";
 
 function App() {
   const [count, setCount] = useState(0);
-  let myobj = {
-    name:"vaibhav",
-    age:21,
-  }
+  
 
   return (
     <>
