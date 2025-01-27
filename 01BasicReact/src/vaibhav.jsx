@@ -1,6 +1,6 @@
 function Vaibhav(){
     return (
-        <h3>Hello world from Vaibhav.jsx</h3>
+        <h3>Hello world from Different Component</h3>
     )
 }
 
