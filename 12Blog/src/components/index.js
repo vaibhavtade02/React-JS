@@ -5,6 +5,9 @@ import Logo from "./Logo"
 import LogoutBtn from './Header/LogoutBtn'
 import Button from './container/Button'
 import Input from './Input'
+import Select from './Select'
+import PostCard from './PostCard'
+import Signup from './Signup'
 
 export {
     Header,
@@ -14,5 +17,7 @@ export {
     LogoutBtn,
     Button,
     Input,
-    
+    Select,
+    PostCard,
+    Signup,
 }
