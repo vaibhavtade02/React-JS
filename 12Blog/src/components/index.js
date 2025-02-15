@@ -8,7 +8,7 @@ import Input from './Input'
 import Select from './Select'
 import PostCard from './PostCard'
 import Signup from './Signup'
-
+import RTE from './RTE'
 export {
     Header,
     Footer,
@@ -20,4 +20,5 @@ export {
     Select,
     PostCard,
     Signup,
+    RTE,
 }
