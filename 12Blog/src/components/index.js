@@ -9,6 +9,10 @@ import Select from './Select'
 import PostCard from './PostCard'
 import Signup from './Signup'
 import RTE from './RTE'
+import Login from './Login'
+import PostForm from './post-form/PostForm'
+import AuthLayout from './AuthLayout'
+
 export {
     Header,
     Footer,
@@ -21,4 +25,7 @@ export {
     PostCard,
     Signup,
     RTE,
+    Login,
+    PostForm,
+    AuthLayout,
 }
